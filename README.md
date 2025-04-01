@@ -7,7 +7,7 @@ We are introducing Measure2Shape, a novel footwear customization framework that 
 If you find our work useful to your research, please consider citing:
 ```
 @article{zhu2025measure2shape,
-  title={Measure2Shape: A novel footwear customisation framework utilising 3D shape estimation from anthropometric measurements with an orthosis case study},
+  title={Measure2Shape: A novel footwear customisation framework utilising {3D} shape estimation from anthropometric measurements with an orthosis case study},
   author={Zhu, Zhaohua and Ji, Wenxuan and Yang, Yadie and Im, Sio-Kei and Zhang, Jie},
   journal={Computers in Industry},
   volume={167},
